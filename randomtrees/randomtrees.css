@@ -1,0 +1,20 @@
+#bg {
+    /*background: -webkit-canvas(canv) no-repeat 50% 50%;*/
+    width:400px;
+    height:400px;
+    position: absolute;
+}
+article{
+    color: #CCC;
+    float: left;
+
+}
+article header{
+    font-family: "Garamond", Times New Roman, Times, serif;
+    font-size: 5em;
+}
+article p{
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 2em;
+
+}
